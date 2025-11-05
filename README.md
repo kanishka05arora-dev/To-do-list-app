@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # To-Do List App
 
 A modern, beautiful, and functional to-do list application built with HTML, CSS, and JavaScript.
@@ -57,3 +58,7 @@ Works on all modern browsers including:
 - To clear all data, you can clear your browser's local storage
 
 Enjoy staying organized! 🎉
+=======
+# To-do-list-app
+Set your daily tasks
+>>>>>>> a71590fb357535c455d4438a047bb74fc7cd0b1e
